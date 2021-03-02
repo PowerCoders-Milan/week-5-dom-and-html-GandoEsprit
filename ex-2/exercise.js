@@ -36,4 +36,6 @@ function getAttributes() {
     p5.appendChild(target);
     currentP = document.getElementsByName('p')[4];
     document.body.insertBefore(p5, currentP);
+    //'https://upload.wikimedia.org/wikipedia/en/thumb/0/00/Princess_Bubblegum.png/100px-Princess_Bubblegum.png
+
 }
